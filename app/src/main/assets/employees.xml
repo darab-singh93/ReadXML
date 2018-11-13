@@ -1,0 +1,22 @@
+<employees>
+    <employee>
+    <id>100</id>
+    <name>Darab Singh</name>
+    <designation>Android Developer</designation>
+    <dept>Development</dept>
+</employee>
+
+<employee>
+    <id>101</id>
+    <name>Jaya</name>
+    <designation>Technical Researcher</designation>
+    <dept>Technical</dept>
+</employee>
+
+<employee>
+    <id>102</id>
+    <name>Pushpa Kumari</name>
+    <designation>Nurse</designation>
+    <dept>Medical</dept>
+</employee>
+</employees>
